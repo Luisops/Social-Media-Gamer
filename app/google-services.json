@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "123117880247-j782f6sn7q8h32tec1igpso4canbhsr4.apps.googleusercontent.com",
+          "client_id": "123117880247-lkbl9dktueakrp6aiki05p0gectthiej.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.optic.socialmediagamer",
-            "certificate_hash": "a213c6cc66a014c65d548cee06165bcec8729bf2"
+            "certificate_hash": "4dd8222eb9ba23b14a6becac54f30b0e2f6ed296"
           }
         },
         {
